@@ -16,7 +16,8 @@
     "polymer": "Polymer/polymer#^2.0.0",
     "webcomponentsjs": "webcomponents/webcomponentsjs#^1.0.0",
     "paper-checkbox": "PolymerElements/paper-checkbox#^2.0.2",
-    "l2t-paper-color": "^1.0.2"
+    "l2t-paper-color": "^1.0.2",
+    "paper-fab": "PolymerElements/paper-fab#^2.0.0"
   },
   "resolutions": {
     "polymer": "^2.0.0"
