@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1, user-scalable=yes">
+
+    <title>l2t-paper-color demo</title>
+
+    <script src="../../webcomponentsjs/webcomponents-lite.js"></script>
+
+    <link rel="import" href="../../iron-demo-helpers/demo-pages-shared-styles.html">
+    <link rel="import" href="../../iron-demo-helpers/demo-snippet.html">
+    <link rel="import" href="../l2t-paper-color.html">
+
+    <custom-style>
+      <style is="custom-style" include="demo-pages-shared-styles"></style>
+    </custom-style>
+  </head>
+  <body>
+    <div class="vertical-section-container centered">
+      <h3>l2t-paper-color demos</h3>
+      <demo-snippet><b>Default setup:</b>
+        <template>
+          <l2t-paper-color></l2t-paper-color>
+        </template>
+      </demo-snippet>
+      <demo-snippet><b>Value set:</b>
+        <template>
+          <l2t-paper-color value="#607d8b"></l2t-paper-color>
+        </template>
+      </demo-snippet>
+      <demo-snippet><b>Disabled setup:</b>
+        <template>
+          <l2t-paper-color disabled value="#4caf50"></l2t-paper-color>
+        </template>
+      </demo-snippet>
+      <demo-snippet><b>Readonly setup:</b>
+        <template>
+          <l2t-paper-color readonly value="#db1fa0"></l2t-paper-color>
+        </template>
+      </demo-snippet>
+      <demo-snippet><b>Hide advance options:</b>
+        <template>
+          <l2t-paper-color hide-advanced></l2t-paper-color>
+        </template>
+      </demo-snippet>
+    </div>
+  </body>
+</html>
