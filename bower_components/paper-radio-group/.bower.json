@@ -64,7 +64,13 @@
     "tag": "v2.1.0",
     "commit": "0d87ce662f6d86b0343cd929ab9f503dc126c764"
   },
+<<<<<<< HEAD
+  "_source": "https://github.com/polymerElements/paper-radio-group.git",
+  "_target": "^2.0.0",
+  "_originalSource": "polymerElements/paper-radio-group"
+=======
   "_source": "https://github.com/PolymerElements/paper-radio-group.git",
   "_target": "^2.0.0",
   "_originalSource": "PolymerElements/paper-radio-group"
+>>>>>>> e044387584945b70719e1afd8c2e7fdf289bf7c5
 }

@@ -69,7 +69,13 @@
     "tag": "v2.0.0",
     "commit": "b37655b85e1c3364ce9f5ca0470ddf1071cca3aa"
   },
+<<<<<<< HEAD
+  "_source": "https://github.com/polymerElements/paper-button.git",
+  "_target": "^2.0.0",
+  "_originalSource": "polymerElements/paper-button"
+=======
   "_source": "https://github.com/PolymerElements/paper-button.git",
   "_target": "^2.0.0",
   "_originalSource": "PolymerElements/paper-button"
+>>>>>>> e044387584945b70719e1afd8c2e7fdf289bf7c5
 }
