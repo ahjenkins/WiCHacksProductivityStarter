@@ -16,8 +16,12 @@
     "polymer": "Polymer/polymer#^2.0.0",
     "webcomponentsjs": "webcomponents/webcomponentsjs#^1.0.0",
     "paper-checkbox": "PolymerElements/paper-checkbox#^2.0.2",
+<<<<<<< HEAD
     "paper-fab": "PolymerElements/paper-fab#^2.0.0",
     "pf-calendar": "PFElements/pf-calendar#^0.3.0"
+=======
+    "l2t-paper-color": "^1.0.2"
+>>>>>>> e044387584945b70719e1afd8c2e7fdf289bf7c5
   },
   "resolutions": {
     "polymer": "^2.0.0"
